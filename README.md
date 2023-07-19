@@ -9,7 +9,7 @@ This app enables the user to view past, present, and future events. The applicat
 
 
 ## Links 
-[Repo](https://github.com/Fallen-Master/Work-Day-Tracker) [Website]
+[Repo](https://github.com/Fallen-Master/Work-Day-Tracker), [Website](https://fallen-master.github.io/Work-Day-Tracker/) 
 ### Credit
 Thanks to the staff at Bootcamp Spot for creating the HTML and CSS.
 The JavaScript code was composed using jQuery by [Rafael Gomez](https://github.com/Fallen-Master).
